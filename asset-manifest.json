@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wordstream-d3/static/css/main.f68bcc4f.chunk.css",
+    "main.js": "/wordstream-d3/static/js/main.e35cadd2.chunk.js",
+    "main.js.map": "/wordstream-d3/static/js/main.e35cadd2.chunk.js.map",
+    "runtime-main.js": "/wordstream-d3/static/js/runtime-main.5f1ea537.js",
+    "runtime-main.js.map": "/wordstream-d3/static/js/runtime-main.5f1ea537.js.map",
+    "static/css/2.b1712ce1.chunk.css": "/wordstream-d3/static/css/2.b1712ce1.chunk.css",
+    "static/js/2.40a91a7e.chunk.js": "/wordstream-d3/static/js/2.40a91a7e.chunk.js",
+    "static/js/2.40a91a7e.chunk.js.map": "/wordstream-d3/static/js/2.40a91a7e.chunk.js.map",
+    "index.html": "/wordstream-d3/index.html",
+    "precache-manifest.0e84d34372fa40f03ab854fff3df4a8a.js": "/wordstream-d3/precache-manifest.0e84d34372fa40f03ab854fff3df4a8a.js",
+    "service-worker.js": "/wordstream-d3/service-worker.js",
+    "static/css/2.b1712ce1.chunk.css.map": "/wordstream-d3/static/css/2.b1712ce1.chunk.css.map",
+    "static/css/main.f68bcc4f.chunk.css.map": "/wordstream-d3/static/css/main.f68bcc4f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f1ea537.js",
+    "static/css/2.b1712ce1.chunk.css",
+    "static/js/2.40a91a7e.chunk.js",
+    "static/css/main.f68bcc4f.chunk.css",
+    "static/js/main.e35cadd2.chunk.js"
+  ]
+}
