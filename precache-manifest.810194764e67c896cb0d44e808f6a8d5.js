@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f39c8b36b65aecdc47e499ff37f2c62f",
+    "revision": "7124b0ffb1f7740af307804c12503ef3",
     "url": "/wordstream-d3/index.html"
   },
   {
